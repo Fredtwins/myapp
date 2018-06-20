@@ -1,0 +1,5 @@
+apps:
+  - script: ./app.js
+    name: webpack_mpvue
+    env_production:
+      NODE_ENV: production
